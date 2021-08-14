@@ -1,0 +1,56 @@
+.outside{
+    width: auto;
+    background-color:lightgoldenrodyellow;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#form{
+    
+    border-radius: 20px;
+    border-style: 2px solid;
+    background-color:#ffffff;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+h2{
+    text-align: center;
+}
+.p1{
+    padding-left: 20%;
+}
+fieldset{
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: 1px;
+}
+.lg1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.check_div{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:5px;
+    border:1px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15px;
+}
+.select_div{
+    padding: 10px 10px 10px 10px;
+    border:1px solid;
+    margin:15px 20% 0% 20%;
+}
+button{
+    background-color: red;
+}
+
+.submit_btn{
+    margin-top: 10px;
+    display: flex;
+   
+    height:40px; 
+    justify-content: center;
+}
