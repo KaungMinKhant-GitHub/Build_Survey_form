@@ -1,0 +1,21 @@
+#bg_div{
+    background-color: lightcoral;
+    width: 100%;
+    height: auto;
+}
+h1{
+    text-align: center;
+}
+#form_div{
+    background-color: cornsilk;
+    width: 100%;
+    height: auto;
+    border: 2px solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
